@@ -2,7 +2,7 @@
 
 `coolirr` is a standalone, cross-platform tool for Nikon Coolscan scanners (e.g. LS-50, LS-4000, LS-5000) to measure irregularity over USB. It accesses the raw uncalibrated CCD data directly to evaluate optical alignment and LED health.
 
-Nikon's own inspection software allows for testing irregularity using a special slide chart. This tool mimicks the test, the measurement values are adjusted to no require that slide.
+Nikon's own inspection software allows for testing irregularity using a special slide chart. This tool mimicks the test, the measurement values are adjusted to not require that slide.
 
 Use this tool to:
 1) Calibrate LED unit. Note: Unlike Nikon's tool, the unit will move during the and requires fastening the screw before testing again.
@@ -10,7 +10,7 @@ Use this tool to:
 
 The tool requires the MA-21 to be inserted at the time of measurement.
 
-This tool wouldn't be possible without dedicated work from:
+This tool wouldn't be possible without the dedicated work from:
 * https://gitlab.com/sane-project/backends
 * https://github.com/kosma/coolscan-mods
 * https://github.com/kevihiiin/Nikon-Coolscan-RE
