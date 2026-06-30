@@ -11,9 +11,9 @@ Use this tool to:
 The tool requires the MA-21 to be inserted at the time of measurement.
 
 This tool wouldn't be possible without dedicated work from:
-https://gitlab.com/sane-project/backends
-https://github.com/kosma/coolscan-mods
-https://github.com/kevihiiin/Nikon-Coolscan-RE
+* https://gitlab.com/sane-project/backends
+* https://github.com/kosma/coolscan-mods
+* https://github.com/kevihiiin/Nikon-Coolscan-RE
 
 
 ## Prerequisites
